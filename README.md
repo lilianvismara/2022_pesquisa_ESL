@@ -2,6 +2,7 @@
 Repositório da análise de dados de pesquisa na área de Produção Vegetal (Proteção de Plantas). 
 
 Autores: **Edson Bertoldo**, Sérgio Miguel Mazaro e Lilian de Souza Vismara. 
+
 Dados da produção (artigo). Disponível em: (em breve).
 
 ### EFICIÊNCIA DE PROTETOR BIOLÓGICO PARA BACTÉRIAS DO GÊNERO Bradyrhizobium NA CULTURA DA SOJA
